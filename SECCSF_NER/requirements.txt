@@ -1,0 +1,8 @@
+transformers==4.20.1
+botocore==1.29
+urllib3==1.26.15
+pytorch-crf
+torch==1.12.1
+torchvision==0.13.1
+scikit-learn==1.2.2
+sentencepiece==0.1.97
