@@ -9,4 +9,4 @@ torch==1.5.1
 torchvision==0.6.1  
 scikit-learn==0.22.1  
 # DataSet
-We give a lightweight EPIC dataset as an example. Under the DataSet/0.25/, there is a 1/4 EPIC training dataset. The data encapsulates a dictionary in npz format, where 'words' and 'labels' are used as keys to store the original text and label data. The validation set is stored in the DataSet/Test/.
+We give a lightweight EPIC dataset as an example. In the path of DataSet/0.25/, where is a 1/4 EPIC training dataset. The training dataset encapsulates a dictionary in npz format, where 'words' and 'labels' are used as keys to store the original text and label data. The validation set is stored in the path of DataSet/Test/.
